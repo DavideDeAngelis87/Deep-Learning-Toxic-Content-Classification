@@ -14,7 +14,7 @@ Il cuore del progetto è una rete neurale progettata per comprendere il contesto
 ## 🛠 Tech Stack
 * **Linguaggio:** Python
 * **Deep Learning:** `TensorFlow` / `Keras`.
-* **NLP & Data Handling:** `Pandas`, `NumPy`, `Scikit-learn`.
+* **Data Handling:** `Pandas`, `NumPy`, `Scikit-learn`.
 
 ## 📈 Applicazioni Business
 - **Scalable Content Moderation:** supporto ai team di moderazione per gestire grandi volumi di contenuti generati dagli utenti (UGC).
@@ -23,3 +23,4 @@ Il cuore del progetto è una rete neurale progettata per comprendere il contesto
 
 ## 📂 Struttura del Repository
 - `Filtro anti-hater per social network.ipynb`: notebook completo con l'analisi esplorativa, l'architettura della rete e il processo di addestramento.
+- `Filter_Toxic_Comments_dataset.csv.zip`: dataset csv analizzato (il file è in un archivio zip per via delle dimensioni)
